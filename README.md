@@ -43,7 +43,7 @@ The relational structure enables analysis across user behavior, content creation
 
 The main relationships connect users with their posts, votes, and badges, while lookup tables describe post and vote types.
 
-![Stack Overflow Database Schema](database_schema.png)
+![Stack Overflow Database Schema](scheme.png)
 
 ## 🔍 Analysis
 
